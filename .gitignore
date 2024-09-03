@@ -1,4 +1,4 @@
-# Create gitignore for web3 and ethers standard
+# gitignore for web3 and ethers standard
 node_modules/
 build/
 dist/
