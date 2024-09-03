@@ -1,6 +1,6 @@
 # Protocol Math
 
-This repository contains examples of how to execute code from the Protocol Math documentation using both Web3.js and Ethers.js.
+This repository contains examples of how to execute code from the Protocol Math documentation using Web3.js, Ethers.js or Viem.
 
 ## Folder Structure
 
