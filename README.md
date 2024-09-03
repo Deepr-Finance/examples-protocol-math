@@ -21,15 +21,6 @@ This repository contains examples of how to execute code from the Protocol Math 
     cd examples-protocol-math
     ```
 
-2. Install dependencies:
-    ```bash
-    npm install web3 ethers
-    ```
+2. Follow the instructions in the `web3/README.md`, `ethers/README.md` or `viem/README.md` files to run the examples.
 
-## Web3.js Example
 
-The `web3/protocol-math.js` file contains examples of interacting with the Deepr protocol using Web3.
-
-### Run the Web3.js Example
-```bash
-node web3/protocol-math.js
