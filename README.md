@@ -4,8 +4,9 @@ This repository contains examples of how to execute code from the Protocol Math 
 
 ## Folder Structure
 
-- `web3/`: Contains code examples using Web3.js.
-- `ethers/`: Contains code examples using Ethers.js.
+- `web3/`: Contains code examples using Web3.
+- `ethers/`: Contains code examples using Ethers.
+- `viem/`: Contains code examples using Viem.
 
 ## Prerequisites
 
@@ -16,8 +17,8 @@ This repository contains examples of how to execute code from the Protocol Math 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/protocol-math-web3-ethers.git
-    cd protocol-math-web3-ethers
+    git clone https://github.com/yourusername/examples-protocol-math.git
+    cd examples-protocol-math
     ```
 
 2. Install dependencies:
@@ -27,8 +28,8 @@ This repository contains examples of how to execute code from the Protocol Math 
 
 ## Web3.js Example
 
-The `web3/protocol-math-web3.js` file contains examples of interacting with the Deepr protocol using Web3.js.
+The `web3/protocol-math.js` file contains examples of interacting with the Deepr protocol using Web3.
 
 ### Run the Web3.js Example
 ```bash
-node web3/protocol-math-web3.js
+node web3/protocol-math.js
