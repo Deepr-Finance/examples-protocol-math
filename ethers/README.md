@@ -1,6 +1,6 @@
-# Web3.js Example
+# Ethers.js Example
 
-The `web3/protocol-math.js` file contains examples of interacting with the Deepr protocol using Web3.
+The `ethers/protocol-math.js` file contains examples of interacting with the Deepr protocol using Web3.
 
 ## Prerequisites
 
@@ -13,7 +13,7 @@ The `web3/protocol-math.js` file contains examples of interacting with the Deepr
 npm install
 ```
 
-## Run the Web3.js Example
+## Run the Ethers.js Example
 ```bash
 node protocol-math.js
 ```
