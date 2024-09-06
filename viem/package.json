@@ -1,0 +1,16 @@
+{
+  "name": "viem",
+  "version": "1.0.0",
+  "description": "The `viem/protocol-math.js` file contains examples of interacting with the Deepr protocol using Viem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "viem": "^2.21.2"
+  }
+}
