@@ -1,7 +1,6 @@
 import { ethers, formatUnits } from 'ethers';
 import { networkConfig } from '../constants.js';
 
-console.log(networkConfig);
 const provider = new ethers.JsonRpcProvider(networkConfig.iotaevm.rpc);
 
 async function main() {

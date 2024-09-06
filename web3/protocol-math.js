@@ -50,9 +50,8 @@ async function main() {
 
     console.log(`\n\tSupply APY for IOTA: ${supplyApy} %`);
     console.log(`\tBorrow APY for IOTA: ${borrowApy} %`);
-
-
-  } catch (error) {
+  }
+  catch (error) {
     console.error('An error occurred:', error);
   }
 }
